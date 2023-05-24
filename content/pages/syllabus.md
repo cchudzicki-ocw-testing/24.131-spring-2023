@@ -41,6 +41,22 @@ All readings can be found in the {{% resource_link "1f3f9f0f-79a4-4628-9334-9e10
 
 ### Course Requirements
 
+*Class Attendance, Preparedness, and Discussion*
+
+You should come to class ready to contribute to class discussions in a way that demonstrates you have done the assigned readings. Mechanically speaking, your participation and attendance will affect your grade. 
+
+Attendance at recitations is mandatory.
+
+*Reading Quizzes*
+
+Every time a new reading is assigned (which is nearly every class), there will be a quiz. These aren’t anything to worry about; they are designed to be easy if you’ve made a sincere attempt to do the reading but hard otherwise.
+
+*Writing Assignments*
+
+You are required to submit three short writing assignments (approximately 500–1000 words each) over the course of the semester. These are worth 15% of your final grade each. You will also be required to submit a single longer essay (approximately 1500 words) due on the final day of class. This is worth 30% of your final grade. 
+
+For detail on the writing assignments and the final essay, see the  {{% resource_link "0f449cfe-c4fc-4a88-86ba-58c2cd920fdd" "Assignments" %}} section.
+
 ### Grading Policy
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
@@ -72,5 +88,3 @@ Final Essay
 {{< tdclose >}}{{< tdopen >}}
 30%
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
-
-For detail on the writing assignments and the final essay, see the {{% resource_link "0f449cfe-c4fc-4a88-86ba-58c2cd920fdd" " Assignments" %}} section.
