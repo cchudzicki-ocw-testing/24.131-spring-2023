@@ -31,7 +31,13 @@ Winner, Langdon. “Technologies as Forms of Life.” Chapter 1 in *The Whale an
 
 ### Session 6: Data Collection
 
+Snowden, Edward. “Tokyo.” Chapter 16 in *Permanent Record: A Memoir of a Reluctant Whistleblower*. Macmillan, 2019. ISBN: ‎9781529035650.
+
+———.  “Heartbeat.” Chapter 20 in *Permanent Record: A Memoir of a Reluctant Whistleblower*. Macmillan, 2019. ISBN: ‎9781529035650.
+
 ### Session 7: Privacy
+
+Gavison, Ruth. “[Privacy and the Limits of Law](https://www.jstor.org/stable/795891).” *Yale Law Journal* 89, no. 3 (1980): 421–71. *(Read pages 421–40.)*
 
 ### Session 8: For Individuals
 
