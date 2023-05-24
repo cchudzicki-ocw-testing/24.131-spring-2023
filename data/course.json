@@ -1,0 +1,40 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ethics-of-technology"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ethics-of-technology"
+  },
+  "course_title": "Ethics of Technology ",
+  "course_description": "This course introduces the tools of philosophical ethics through application to contemporary issues concerning technology. It takes up current debates on topics such as privacy and surveillance, algorithmic bias, the promise and peril of artificial intelligence, automation and the future of work, and threats to democracy in the digital age from the perspective of users, practitioners, and regulatory/governing bodies.",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.131",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "ethics-of-technology"
+  },
+  "learning_resource_types": [
+    "Readings",
+    "Written Assignments"
+  ],
+  "site_uid": "1ffc3816-031c-4f46-9cb7-37aa99342ca0",
+  "site_short_id": "24.131-spring-2023"
+}
