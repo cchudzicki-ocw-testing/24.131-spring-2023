@@ -13,8 +13,10 @@
   ],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "ethics-of-technology"
+    "content": [
+      "5edabfd6-380e-4243-b220-4f15f4d61555"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "",
