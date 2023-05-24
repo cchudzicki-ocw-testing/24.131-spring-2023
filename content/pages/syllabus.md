@@ -25,3 +25,50 @@ Technological advances, and the uses we make of them, continue to radically resh
 - Censorship and freedom of speech
 
 In addition to looking at technology ethics, this class is intended as an introduction to moral philosophy and does not presuppose any philosophical background.
+
+### Course Objectives
+
+- Upon successful completion of the class, students will have:
+- Been introduced to a variety of important issues in technology ethics.
+- Developed a richer understanding of what ethics is and how to reason about it.
+- Improved their skills in argument construction, analysis, evaluation, and articulation.
+- Learned to recognize, and have productive discussions in the face of, reasonable moral disagreement.
+- Learned to engage critically with the many ethical questions raised by technology.
+
+### Readings
+
+All readings can be found in the {{% resource_link "1f3f9f0f-79a4-4628-9334-9e10d34ae9bd" "Readings" %}} section.
+
+### Course Requirements
+
+### Grading Policy
+
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+Participation in Recitations
+{{< tdclose >}}{{< tdopen >}}
+10%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Reading Quizzes
+{{< tdclose >}}{{< tdopen >}}
+15%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Short Writing Assignment 1
+{{< tdclose >}}{{< tdopen >}}
+15%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Short Writing Assignment 2
+{{< tdclose >}}{{< tdopen >}}
+15%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Short Writing Assignment 3
+{{< tdclose >}}{{< tdopen >}}
+15%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Final Essay
+{{< tdclose >}}{{< tdopen >}}
+30%
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
