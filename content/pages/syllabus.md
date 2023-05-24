@@ -72,3 +72,5 @@ Final Essay
 {{< tdclose >}}{{< tdopen >}}
 30%
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+For detail on the writing assignments and the final essay, see the {{% resource_link "0f449cfe-c4fc-4a88-86ba-58c2cd920fdd" " Assignments" %}} section.
