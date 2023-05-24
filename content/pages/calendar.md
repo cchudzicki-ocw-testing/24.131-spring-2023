@@ -18,3 +18,19 @@ uid: 64c0e042-1482-4cbc-bc20-e7952bc8f254
 ### Session 5: Technology
 
 ## Part II – Data and Privacy
+
+Session 6: Data Collection
+
+Session 7: Privacy
+
+Session 8: For Individuals
+
+Session 9: For Society
+
+Session 10: Consent, Part 1
+
+Session 11: Rights
+
+Session 12: Consent, Part 2
+
+## Part III – Online Manipulation
