@@ -41,13 +41,23 @@ Gavison, Ruth. “[Privacy and the Limits of Law](https://www.jstor.org/stable/7
 
 ### Session 8: For Individuals
 
+Gavison, Ruth. “[Privacy and the Limits of Law](https://www.jstor.org/stable/795891).” *Yale Law Journal* 89, no. 3 (1980): 421–71. *(Read pages 450–56.)*
+
 ### Session 9: For Society
+
+Richards, Neil M. “[The Dangers of Surveillance](https://www.jstor.org/stable/23415062).” *Harvard Law Review*  126, no. 7 (2013): 1934*–*65.
 
 ### Session 10: Consent, Part 1
 
+Solove, Daniel J. “[Introduction: Privacy Self-Management and the Consent Dilemma](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2171018#).” *Harvard Law Review*  126 no. 7 (2013): 1880*–*1903.
+
 ### Session 11: Rights
 
+Thomson, Judith Jarvis.  “Claims, Privileges, and Powers.” Chapter 1 in *The Realm of Rights*. Harvard University Press, 1992. ISBN: ‎9780674749498. \[Preview with [Google Books](https://www.google.com/books/edition/The_Realm_of_Rights/ROiaSeFLKQ4C?hl=en&gbpv=1)\]
+
 ### Session 12: Consent, Part 2
+
+Mills, Kevin. “[Consent and the Right to Privacy](https://onlinelibrary.wiley.com/doi/full/10.1111/japp.12592).” *Journal of Applied Philosophy* 39, no. 4 (2022): 721*–*35.
 
 ## Part III – Online Manipulation
 
