@@ -67,6 +67,8 @@ Susser, Daniel, Beate Roessler, et al. “[Technology, Autonomy, and Manipulatio
 
 ### Session 14: Manipulation
 
+Noggle, Robert. “[Manipulative Actions: A Conceptual and Moral Analysis](https://philarchive.org/rec/NOGMAA).” *American Philosophical Quarterly* 33, no. 1 (1996): 43–55
+
 ### Session 15: Autonomy
 
 ### Session 16: Autonomy, continued
