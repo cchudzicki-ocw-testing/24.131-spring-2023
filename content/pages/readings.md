@@ -63,6 +63,8 @@ Mills, Kevin. “[Consent and the Right to Privacy](https://onlinelibrary.wiley.
 
 ### Session 13: Online Manipulation
 
+Susser, Daniel, Beate Roessler, et al. “[Technology, Autonomy, and Manipulation](https://policyreview.info/articles/analysis/technology-autonomy-and-manipulation).” *Internet Policy Revie*w 8, no. 2 (2019): 1*–*22.
+
 ### Session 14: Manipulation
 
 ### Session 15: Autonomy
