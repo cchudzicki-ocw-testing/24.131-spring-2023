@@ -57,13 +57,13 @@ Thomson, Judith Jarvis.  “Claims, Privileges, and Powers.” Chapter 1 in *Th
 
 ### Session 12: Consent, Part 2
 
-Mills, Kevin. “[Consent and the Right to Privacy](https://onlinelibrary.wiley.com/doi/full/10.1111/japp.12592).” *Journal of Applied Philosophy* 39, no. 4 (2022): 721*–*35.
+Mills, Kevin. “[Consent and the Right to Privacy](https://onlinelibrary.wiley.com/doi/full/10.1111/japp.12592).” *Journal of Applied Philosophy* 39, no. 4 (2022): 721–35.
 
 ## Part III – Online Manipulation
 
 ### Session 13: Online Manipulation
 
-Susser, Daniel, Beate Roessler, et al. “[Technology, Autonomy, and Manipulation](https://policyreview.info/articles/analysis/technology-autonomy-and-manipulation).” *Internet Policy Revie*w 8, no. 2 (2019): 1*–*22.
+Susser, Daniel, Beate Roessler, et al. “[Technology, Autonomy, and Manipulation](https://policyreview.info/articles/analysis/technology-autonomy-and-manipulation).” *Internet Policy Revie*w 8, no. 2 (2019): 1–22.
 
 ### Session 14: Manipulation
 
