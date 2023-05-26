@@ -71,11 +71,19 @@ Noggle, Robert. “[Manipulative Actions: A Conceptual and Moral Analysis](https
 
 ### Session 15: Autonomy
 
+Larmore, Charles. “[Pluralism and Reasonable Disagreement](https://www.cambridge.org/core/journals/social-philosophy-and-policy/article/abs/pluralism-and-reasonable-disagreement/2E36F253670AEEB4C84DAECE0ACD6D26).” *Social Philosophy & Policy*  11, no. 1 (1994): 61–79.
+
 ### Session 16: Autonomy, continued
+
+Mill, John Stuart Mill. “[Of Individuality, as One of the Elements of Well-Being](https://www.gutenberg.org/files/34901/34901-h/34901-h.htm#Page_103).” Chapter 3 in *On Liberty*.  1859. Project Gutenberg.
 
 ### Session 17: Advertising
 
+Arrington, Robert L. “[Advertising and Behavior Control](https://www.jstor.org/stable/25071301).” *Journal of Business Ethics* 1 (1982): 3–12.
+
 ### Session 18: Responsibility
+
+Shiffrin, Seana Valentine. “[Deceptive Advertising and Taking Responsibility for Others](https://academic.oup.com/edited-volume/27989/chapter/211706627).” Chapter 21 in *The Oxford Handbook of Food Ethics*. Edited by Anne Barnhill, Mark Budolfson, and Tyler Doggett. Oxford University Press, 2020. ISBN: ‎9780197508732.
 
 ## Part IV – Disinformation and Polarization
 
