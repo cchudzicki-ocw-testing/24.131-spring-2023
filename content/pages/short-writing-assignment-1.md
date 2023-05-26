@@ -27,6 +27,6 @@ With respect to this argument, please answer the following:
 
 Word Limit: 1000 (Submissions which exceed 1000 words will be penalized by one third of a letter grade per 100 words. Citations do not count toward the word limit.)
 
-Note: this is a formal piece of writing, but it is not an essay. You do not need a formal introduction, thesis statement, or conclusion – just answer the prompt.
+Note: this is a formal piece of writing, but it is *not* an essay. You do not need a formal introduction, thesis statement, or conclusion – just answer the prompt.
 
 This assignment is due the end of day of session 5.
