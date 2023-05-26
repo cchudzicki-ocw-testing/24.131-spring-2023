@@ -15,3 +15,23 @@ leftnav:
   name: Assignments
   url: /pages/assignments
   weight: 40
+- identifier: 6dbb0523-b9d2-4df5-aaf1-e814f09fc2e0
+  name: Short Writing Assignment 1
+  parent: 0f449cfe-c4fc-4a88-86ba-58c2cd920fdd
+  url: /pages/short-writing-assignment-1
+  weight: 10
+- identifier: 807fc503-a058-42df-98f4-0ba26f167aee
+  name: Short Writing Assignment 2
+  parent: 0f449cfe-c4fc-4a88-86ba-58c2cd920fdd
+  url: /pages/short-writing-assignment-2
+  weight: 20
+- identifier: bf040e6f-1831-4a13-b385-b82be57ae666
+  name: Short Writing Assignment 3
+  parent: 0f449cfe-c4fc-4a88-86ba-58c2cd920fdd
+  url: /pages/short-writing-assignment-3
+  weight: 30
+- identifier: 51f95672-fa90-439f-87a0-54e5ea8c15b8
+  name: Final Essay
+  parent: 0f449cfe-c4fc-4a88-86ba-58c2cd920fdd
+  url: /pages/final-essay
+  weight: 40
