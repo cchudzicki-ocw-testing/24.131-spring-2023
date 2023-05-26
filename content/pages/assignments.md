@@ -11,7 +11,7 @@ You will also be required to submit a single longer essay (approximately 1500 wo
 
 For further detail, see:
 
-Short Writing Assignment 1
+{{% resource_link "6dbb0523-b9d2-4df5-aaf1-e814f09fc2e0" "Short Writing Assignment 1" %}}
 
 Short Writing Assignment 2
 
