@@ -105,9 +105,9 @@ Meiklejohn, Alexander. Chapter 1 in *Political Freedom: The Constitutional Power
 
 ### Session 23: Lies
 
-**Shiffrin, Seana Valentine. “Lies and the Murderer Next Door.” Chapter 1 in** ***Speech Matters: On Lying, Morality, and the Law*****. Princeton University Press, 2016, pp. 5–17, and 25–29. ISBN: ‎9780691173610. \[Preview with** [**Google Books**](https://www.google.com/books/edition/Speech_Matters/Y3CYDwAAQBAJ?hl=en&gbpv=1)**\]**
+**Shiffrin, Seana Valentine. Excerpts from “Lies and the Murderer Next Door.” Chapter 1 in** ***Speech Matters: On Lying, Morality, and the Law.*** **Princeton University Press, 2016, pp. 5–17, and 25–29. ISBN: ‎9780691173610. \[Preview with** [**Google Books**](https://www.google.com/books/edition/Speech_Matters/Y3CYDwAAQBAJ?hl=en&gbpv=1)**\]**
 
-**Shiffrin, Seana Valentine. “Lying and the Freedom of Speech.” Chapter 4 in** ***Speech Matters: On Lying, Morality, and the Law*****. Princeton University Press, 2016, pp. 5–17, and 25–29. ISBN: ‎9780691173610. \[Preview with** [**Google Books**](https://www.google.com/books/edition/Speech_Matters/Y3CYDwAAQBAJ?hl=en&gbpv=1)**\]**
+**Shiffrin, Seana Valentine. Excerpts from “Lying and the Freedom of Speech.” Chapter 4 in** ***Speech Matters: On Lying, Morality, and the Law.*** **Princeton University Press, 2016, pp. 5–17, and 25–29. ISBN: ‎9780691173610. \[Preview with** [**Google Books**](https://www.google.com/books/edition/Speech_Matters/Y3CYDwAAQBAJ?hl=en&gbpv=1)**\]**
 
 ### Session 24: Deplatforming
 
