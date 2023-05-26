@@ -29,4 +29,4 @@ Word Limit: 1000 (Submissions which exceed 1000 words will be penalized by one t
 
 Note: this is a formal piece of writing, but it is *not* an essay. You do not need a formal introduction, thesis statement, or conclusion – just answer the prompt.
 
-This assignment is due the end of day of session 5.
+This assignment is due at the end of day of session 5.
