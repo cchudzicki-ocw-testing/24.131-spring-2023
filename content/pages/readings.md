@@ -121,4 +121,4 @@ Barocas, Solon, and Andrew D. Selbst. “[Big Data’s Disparate Impact](https:/
 
 ### Session 26: Algorithmic Transparency
 
-Zerilli, John, Alistair Knott, et al. “Transparency in Algorithmic and Human Decision-Making: Is There a Double Standard?” *Philosophy & Technology* 32 (2019): 661–83
+Zerilli, John, Alistair Knott, et al. “[Transparency in Algorithmic and Human Decision-Making: Is There a Double Standard?](https://link.springer.com/article/10.1007/s13347-018-0330-6)” *Philosophy & Technology* 32 (2019): 661–83
