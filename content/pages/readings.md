@@ -117,4 +117,8 @@ Simpson, Robert Mark, and Amia Srinivasan. “[No Platforming](https://academic.
 
 ### Session 25: Discrimination
 
+Barocas, Solon, and Andrew D. Selbst. “[Big Data’s Disparate Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899).” *California Law Review* 104 (2016): 671–732.
+
 ### Session 26: Algorithmic Transparency
+
+Zerilli, John, Alistair Knott, et al. “Transparency in Algorithmic and Human Decision-Making: Is There a Double Standard?” *Philosophy & Technology* 32 (2019): 661–83
