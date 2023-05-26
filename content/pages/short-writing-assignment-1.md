@@ -7,15 +7,11 @@ uid: 6dbb0523-b9d2-4df5-aaf1-e814f09fc2e0
 ---
 Consider the following argument:
 
-P1. Approached from a variety of angles, morality appears to be objective.
-
-P2. As a starting point, we should believe matters are as they appear to be.
-
-C1. As a starting point, we should believe that morality is objective.
-
-P3. There are no good reasons to give up this starting point.
-
-C2. We should believe that morality is objective.
+- P1. Approached from a variety of angles, morality appears to be objective.
+- P2. As a starting point, we should believe matters are as they appear to be.
+- C1. As a starting point, we should believe that morality is objective.
+- P3. There are no good reasons to give up this starting point.
+- C2. We should believe that morality is objective.
 
 With respect to this argument, please answer the following:
 
