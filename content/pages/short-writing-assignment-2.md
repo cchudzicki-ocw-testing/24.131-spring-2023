@@ -5,3 +5,4 @@ draft: false
 title: Short Writing Assignment 2
 uid: 807fc503-a058-42df-98f4-0ba26f167aee
 ---
+This assignment is due the end of day of session 13.
