@@ -75,7 +75,7 @@ Larmore, Charles. “[Pluralism and Reasonable Disagreement](https://www.cambrid
 
 ### Session 16: Autonomy, continued
 
-Mill, John Stuart Mill. “[Of Individuality, as One of the Elements of Well-Being](https://www.gutenberg.org/files/34901/34901-h/34901-h.htm#Page_103).” Chapter 3 in *On Liberty*.  1859. Project Gutenberg.
+Mill, John Stuart Mill. “[Of Individuality, as One of the Elements of Well-Being](https://www.gutenberg.org/files/34901/34901-h/34901-h.htm#Page_103).” Chapter 3 in *On Liberty*. 1859. Project Gutenberg.
 
 ### Session 17: Advertising
 
@@ -97,7 +97,7 @@ Nguyen, C. Thi. “[Echo Chambers and Epistemic Bubbles](https://www.cambridge.o
 
 ### Session 21: Freedom of Speech
 
-Mill, John Stuart Mill. “[Of the Liberty of Thought and Discussion](https://www.gutenberg.org/files/34901/34901-h/34901-h.htm#Page_28).” Chapter 2 in *On Liberty*.  1859. Project Gutenberg.
+Mill, John Stuart Mill. “[Of the Liberty of Thought and Discussion](https://www.gutenberg.org/files/34901/34901-h/34901-h.htm#Page_28).” Chapter 2 in *On Liberty*. 1859. Project Gutenberg.
 
 ### Session 22: Freedom of Speech, continued
 
