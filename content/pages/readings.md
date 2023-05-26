@@ -89,15 +89,29 @@ Shiffrin, Seana Valentine. “[Deceptive Advertising and Taking Responsibility f
 
 ### Session 19: Misinformation and the Internet
 
+Starr, Paul. “The Flooded Zone: How We Became More Vulnerable to Disinformation in the Digital Era.” Chapter 3 in *The Disinformation Age.* Edited by W. Lance Bennett and Steven Livingston. Cambridge University Press, 2020. ISBN: ‎ 9781108823784. \[Preview with [Google Books](https://www.google.com/books/edition/The_Disinformation_Age/ntX7DwAAQBAJ?hl=en&gbpv=1)\]
+
 ### Session 20: Echo Chambers
+
+Nguyen, C. Thi. “[Echo Chambers and Epistemic Bubbles](https://www.cambridge.org/core/journals/episteme/article/echo-chambers-and-epistemic-bubbles/5D4AC3A808C538E17C50A7C09EC706F0).” *Episteme* 17, no. 2 (2020): 141–61.
 
 ### Session 21: Freedom of Speech
 
+Mill, John Stuart Mill. “[Of the Liberty of Thought and Discussion](https://www.gutenberg.org/files/34901/34901-h/34901-h.htm#Page_28).” Chapter 2 in *On Liberty*.  1859. Project Gutenberg.
+
 ### Session 22: Freedom of Speech, continued
+
+Meiklejohn, Alexander. Chapter 1 in *Political Freedom: The Constitutional Powers of the People*. Oxford University Press, 1965. ISBN: ‎9780195004267. 
 
 ### Session 23: Lies
 
+**Shiffrin, Seana Valentine. “Lies and the Murderer Next Door.” Chapter 1 in** ***Speech Matters: On Lying, Morality, and the Law*****. Princeton University Press, 2016, pp. 5–17, and 25–29. ISBN: ‎9780691173610. \[Preview with** [**Google Books**](https://www.google.com/books/edition/Speech_Matters/Y3CYDwAAQBAJ?hl=en&gbpv=1)**\]**
+
+**Shiffrin, Seana Valentine. “Lying and the Freedom of Speech.” Chapter 4 in** ***Speech Matters: On Lying, Morality, and the Law*****. Princeton University Press, 2016, pp. 5–17, and 25–29. ISBN: ‎9780691173610. \[Preview with** [**Google Books**](https://www.google.com/books/edition/Speech_Matters/Y3CYDwAAQBAJ?hl=en&gbpv=1)**\]**
+
 ### Session 24: Deplatforming
+
+Simpson, Robert Mark, and Amia Srinivasan. “[No Platforming](https://academic.oup.com/book/9278/chapter/156003932).” Chapter 11 in *Academic Freedom*. Edited by Jennifer Lackey. Oxford University Press, 2018. ISBN: ‎9780198791508. 
 
 ## Part V – Algorithms and Justice
 
