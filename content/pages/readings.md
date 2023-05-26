@@ -45,7 +45,7 @@ Gavison, Ruth. “[Privacy and the Limits of Law](https://www.jstor.org/stable/7
 
 ### Session 9: For Society
 
-Richards, Neil M. “[The Dangers of Surveillance](https://www.jstor.org/stable/23415062).” *Harvard Law Review*  126, no. 7 (2013): 1934*–*65.
+Richards, Neil M. “[The Dangers of Surveillance](https://harvardlawreview.org/print/vol-126/the-dangers-of-surveillance/).” *Harvard Law Review*  126, no. 7 (2013): 1934*–*65.
 
 ### Session 10: Consent, Part 1
 
@@ -53,7 +53,7 @@ Solove, Daniel J. “[Introduction: Privacy Self-Management and the Consent Dile
 
 ### Session 11: Rights
 
-Thomson, Judith Jarvis.  “Claims, Privileges, and Powers.” Chapter 1 in *The Realm of Rights*. Harvard University Press, 1992. ISBN: ‎9780674749498. \[Preview with [Google Books](https://www.google.com/books/edition/The_Realm_of_Rights/ROiaSeFLKQ4C?hl=en&gbpv=1)\]
+Thomson, Judith Jarvis. “Claims, Privileges, and Powers.” Chapter 1 in *The Realm of Rights*. Harvard University Press, 1992. ISBN: ‎9780674749498. \[Preview with [Google Books](https://www.google.com/books/edition/The_Realm_of_Rights/ROiaSeFLKQ4C?hl=en&gbpv=1)\]
 
 ### Session 12: Consent, Part 2
 
@@ -71,7 +71,7 @@ Noggle, Robert. “[Manipulative Actions: A Conceptual and Moral Analysis](https
 
 ### Session 15: Autonomy
 
-Larmore, Charles. “[Pluralism and Reasonable Disagreement](https://www.cambridge.org/core/journals/social-philosophy-and-policy/article/abs/pluralism-and-reasonable-disagreement/2E36F253670AEEB4C84DAECE0ACD6D26).” *Social Philosophy & Policy*  11, no. 1 (1994): 61–79.
+Larmore, Charles. “[Pluralism and Reasonable Disagreement](https://www.cambridge.org/core/journals/social-philosophy-and-policy/article/abs/pluralism-and-reasonable-disagreement/2E36F253670AEEB4C84DAECE0ACD6D26).” *Social Philosophy & Policy* 11, no. 1 (1994): 61–79.
 
 ### Session 16: Autonomy, continued
 
@@ -79,7 +79,7 @@ Mill, John Stuart Mill. “[Of Individuality, as One of the Elements of Well-Bei
 
 ### Session 17: Advertising
 
-Arrington, Robert L. “[Advertising and Behavior Control](https://www.jstor.org/stable/25071301).” *Journal of Business Ethics* 1 (1982): 3–12.
+Arrington, Robert L. “[Advertising and Behavior Control](https://link.springer.com/article/10.1007/BF00382800).” *Journal of Business Ethics* 1 (1982): 3–12.
 
 ### Session 18: Responsibility
 
