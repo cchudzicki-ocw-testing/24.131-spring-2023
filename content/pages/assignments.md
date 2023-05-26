@@ -13,8 +13,8 @@ For further detail, see:
 
 {{% resource_link "6dbb0523-b9d2-4df5-aaf1-e814f09fc2e0" "Short Writing Assignment 1" %}}
 
-Short Writing Assignment 2
+{{% resource_link "807fc503-a058-42df-98f4-0ba26f167aee" "Short Writing Assignment 2" %}}
 
-Short Writing Assignment 3
+{{% resource_link "bf040e6f-1831-4a13-b385-b82be57ae666" "Short Writing Assignment 3" %}}
 
-Final Essay
+{{% resource_link "51f95672-fa90-439f-87a0-54e5ea8c15b8" "Final Essay" %}}
