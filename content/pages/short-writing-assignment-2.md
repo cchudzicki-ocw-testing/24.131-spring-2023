@@ -20,4 +20,4 @@ Writing Requirements:
 - But this time, you can no longer explicitly separate your answers to questions (1) and (2); they must flow together as a coherent piece of writing.
     - One strategy for doing this: answer each question separately, and then write a few transitional sentences connecting your two answers into a single, coherent whole.
 
-This assignment is due at the end of day after session 13.
+This assignment is due the end of day after session 13.
