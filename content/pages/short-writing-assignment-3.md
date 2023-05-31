@@ -7,6 +7,7 @@ uid: bf040e6f-1831-4a13-b385-b82be57ae666
 ---
 In class, we looked at two accounts of manipulation: according to Susser et al., manipulation involves “hidden influence”, whereas according to Robert Noggle, manipulation involves “leading somebody astray”. Your task is to assess which of these theories provides a better account of online manipulation by drawing on each theory to analyze the following example (assume that the “Stay in the Loop” box is checked by default):
 
+{{< resource uuid="e89d2938-d6ba-4790-8822-819363645dc1" >}}
 {{< resource uuid="211fdc10-7c37-427a-843e-2115a6cf3f61" >}}
 
 You should, more specifically, submit a coherent piece of writing which answers the following:
