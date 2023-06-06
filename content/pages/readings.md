@@ -45,11 +45,11 @@ Gavison, Ruth. “[Privacy and the Limits of Law](https://www.jstor.org/stable/7
 
 ### Session 9: For Society
 
-Richards, Neil M. “[The Dangers of Surveillance](https://harvardlawreview.org/print/vol-126/the-dangers-of-surveillance/).” *Harvard Law Review*  126, no. 7 (2013): 1934–65.
+Richards, Neil M. “[The Dangers of Surveillance](https://harvardlawreview.org/print/vol-126/the-dangers-of-surveillance/).” *Harvard Law Review* 126, no. 7 (2013): 1934–65.
 
 ### Session 10: Consent, Part 1
 
-Solove, Daniel J. “[Introduction: Privacy Self-Management and the Consent Dilemma](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2171018#).” *Harvard Law Review*  126 no. 7 (2013): 1880–1903.
+Solove, Daniel J. “[Introduction: Privacy Self-Management and the Consent Dilemma](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2171018#).” *Harvard Law Review* 126 no. 7 (2013): 1880–1903.
 
 ### Session 11: Rights
 
