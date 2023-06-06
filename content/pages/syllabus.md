@@ -28,7 +28,8 @@ In addition to looking at technology ethics, this class is intended as an introd
 
 ### Course Objectives
 
-- Upon successful completion of the class, students will have:
+Upon successful completion of the class, students will have:
+
 - Been introduced to a variety of important issues in technology ethics.
 - Developed a richer understanding of what ethics is and how to reason about it.
 - Improved their skills in argument construction, analysis, evaluation, and articulation.
