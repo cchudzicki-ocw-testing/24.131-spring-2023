@@ -19,8 +19,6 @@ uid: 64c0e042-1482-4cbc-bc20-e7952bc8f254
 
 Assignment due: Short Writing Assignment 1 
 
- 
-
 ## Part II – Data and Privacy
 
 ### Session 6: Data Collection
@@ -36,8 +34,6 @@ Assignment due: Short Writing Assignment 1 
 ### Session 11: Rights
 
 ### Session 12: Consent, Part 2
-
- 
 
 ## Part III – Online Manipulation
 
@@ -55,8 +51,6 @@ Assignment due: Short Writing Assignment 2
 
 ### Session 18: Responsibility
 
- 
-
 ## Part IV – Disinformation and Polarization
 
 ### Session 19: Misinformation and the Internet
@@ -72,8 +66,6 @@ Assignment due: Short Writing Assignment 3
 ### Session 23: Lies
 
 ### Session 24: Deplatforming
-
- 
 
 ## Part V – Algorithms and Justice
 
