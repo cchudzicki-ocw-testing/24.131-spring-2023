@@ -17,7 +17,7 @@ Session 4: Knowledge
 
 Session 5: Technology
 
-*Assignment due: Short Writing Assignment 1* 
+*Assignment due: Short Writing Assignment 1*
 
 ## Part II – Data and Privacy
 
@@ -53,7 +53,7 @@ Session 18: Responsibility
 
 ## Part IV – Disinformation and Polarization
 
-### Session 19: Misinformation and the Internet
+Session 19: Misinformation and the Internet
 
 *Assignment due: Short Writing Assignment 3*
 
