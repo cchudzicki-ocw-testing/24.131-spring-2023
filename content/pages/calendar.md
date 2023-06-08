@@ -73,4 +73,4 @@ Session 25: Discrimination
 
 Session 26: Algorithmic Transparency
 
-Assignment due: Final Essay
+*Assignment due: Final Essay*
