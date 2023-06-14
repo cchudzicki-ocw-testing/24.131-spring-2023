@@ -44,13 +44,13 @@ All readings can be found in the {{% resource_link "1f3f9f0f-79a4-4628-9334-9e10
 
 *Class Attendance, Preparedness, and Discussion*
 
-You should come to class ready to contribute to class discussions in a way that demonstrates you have done the assigned readings. Mechanically speaking, your participation and attendance will affect your grade. 
-
-Attendance at recitations is mandatory.
+You should come to class ready to contribute to class discussions in a way that demonstrates you have done the assigned readings. Attendance at recitations is mandatory.
 
 *Reading Quizzes*
 
 Every time a new reading is assigned (which is nearly every class), there will be a quiz. These aren’t anything to worry about; they are designed to be easy if you’ve made a sincere attempt to do the reading but hard otherwise.
+
+Note: Quizzes are not included on the OpenCourseWare site for this course.
 
 *Writing Assignments*
 
