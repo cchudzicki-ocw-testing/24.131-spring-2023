@@ -22,4 +22,4 @@ Word Limit: 1500 (Submissions which exceed 1500 words will be penalized by one t
 
 Writing Requirements: this *is* an essay. You *do* need a formal introduction, thesis statement, and conclusion.
 
-This assignment is due during session 26
+This assignment is due during session 26.
